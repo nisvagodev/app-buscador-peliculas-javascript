@@ -1,6 +1,6 @@
 # Aplicación de búsqueda de películas con JavaScript
 
-Link para ver resultado: [BUSCADOR PELICULAS FINALIZADO]()
+Link para ver resultado: [BUSCADOR PELICULAS FINALIZADO](https://aplicacion-buscador-project.netlify.app/)
 
 ![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/app-buscador-peliculas-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
