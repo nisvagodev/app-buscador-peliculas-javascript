@@ -2,7 +2,7 @@
 
 Link para ver resultado: [BUSCADOR PELICULAS FINALIZADO]()
 
-![Captura de pantalla del proyecto de Clima]()
+![Captura de pantalla del proyecto de Clima](https://github.com/nisvagodev/app-buscador-peliculas-javascript/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
 La aplicación utiliza la API de The Movie Database (TMDb) para buscar películas y mostrar sus detalles. A continuación, se proporciona una explicación paso a paso del código JavaScript necesario para que funcione la aplicación.
 
